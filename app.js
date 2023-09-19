@@ -12,7 +12,7 @@ function speak(text) {
 }
 
 // Replace 'YOUR_API_KEY' with your actual OpenAI API key
-const apiKey = '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';
+const apiKey = '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';
 
 btn.addEventListener('click', () => {
     content.textContent = "Listening....";
